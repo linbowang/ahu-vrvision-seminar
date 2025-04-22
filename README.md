@@ -7,6 +7,7 @@
 
 | 日期 | 汇报人 | 论文 |
 | :---: |:---:|:---:|
+| 2025.04.16 | 邹晋 | [CoMatcher：Multi-View Collaborative Featur](https://linbowang.github.io/ahu-vrvision-seminar/papers/4-zj) (CVPR 2025) |
 | 2025.04.08 | 翁壮佶 | [Distilled Prompt Learning for Incomplete Multimodal Survival Prediction](https://linbowang.github.io/ahu-vrvision-seminar/papers/3-wzj) (CVPR 2025) |
 | 2025.04.08 | 吕鑫 | [Agent-Oriented Planning in Multi-Agent Systems](https://linbowang.github.io/ahu-vrvision-seminar/papers/2-lx) (ICLR 2025) |
 | 2025.04.08 | 李庆宇 | [TaoAvatar Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://linbowang.github.io/ahu-vrvision-seminar/papers/1-lqy) (CVPR2025) |
